@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/lukpa/Desktop/ProjectBRightOn/CI606VRFightGame/VRStuff/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/lukpa/Desktop/ProjectBRightOn/CI606VRFightGame/VRStuff/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/lukpa/Desktop/ProjectBRightOn/CI606VRFightGame/VRStuff/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/lukpa/Desktop/ProjectBRightOn/CI606VRFightGame/VRStuff/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/lukpa/Desktop/ProjectBRightOn/CI606VRFightGame/VRStuff/Content/ProjectileParent.uasset",
+				"C:/Users/lukpa/Desktop/ProjectBRightOn/CI606VRFightGame/VRStuff/Content/Attacks/ProjectileParent.uasset",
+				"C:/Users/lukpa/Desktop/ProjectBRightOn/CI606VRFightGame/VRStuff/Content/Attacks/Bullet.uasset",
+				"C:/Users/lukpa/Desktop/ProjectBRightOn/CI606VRFightGame/VRStuff/Content/Attacks/DamageField.uasset"
 			]
 		}
 	]
